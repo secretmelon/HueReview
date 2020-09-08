@@ -1,0 +1,74 @@
+{
+	"origin": ["Hue Review: #image# #prompt# "],
+	"prompt":[
+		"What does #colour# make you feel?",
+		"What does #colour# remind you of?",
+		"Describe the smell of #colour#.",
+		"Who does #colour# remind you of?",
+		"What do you think #colour# tastes like?",
+		"Associate a time period with #colour#.",
+		"What kind of room would you paint with #colour#?",
+		"Give #colour# a suitable name.",
+		"Rate #colour# out of 10.",
+		"Is #colour# wet or dry?",
+		"What emotion does #colour# represent?",
+		"What does #colour# sound like?"
+],
+	"rating":[
+			"1/10",
+			"2/10",
+			"3/10",
+			"4/10",
+			"5/10",
+			"6/10",
+			"7/10",
+			"8/10",
+			"9/10",
+			"10/10",
+			"11/10",
+			"0/10",
+			"-10/10"
+],
+	"response":[
+		"That's interesting.",
+		"Good to know.",
+		"I agree.",
+		"Hmmm...",
+		"Same tbh.",
+		"...riiiiiight",
+		"Couldn't agree more.",
+		"Huh. Weird.",
+		"You reckon?!",
+		"That's a first!",
+		"Picasso would probably disagree..."],
+	"rating_response":[
+		"Personally, I'd give it a #rating#.",
+		"I think my mom would think it's a #rating#. Not that you asked.",
+		"Really? I'd give it a #rating#!",
+		"I feel like some days it's a #rating# and other days it's a #rating#",
+		"I feel like #celeb# would think it's a #rating#."
+],
+
+	"celeb":[
+		"@ladygaga", 
+		"@whoisaddison", 
+		"@KylieJenner", 
+		"@iamcardib", 
+		"@katyperry",
+		"@KimKardashian", 
+		"@realDonaldTrump", 
+		"@kanyewest", 
+		"@ddlovato", 
+		"@rihanna",
+		"@sethrogan",
+		"@joerogan",
+		"@mileycyrus",
+		"@billieeilish"
+],
+	"digit":["1","2","3","4","5","6","7","8","9","A","B","C","D","E","F"],
+	"colour": ["#digit##digit##digit##digit##digit##digit#"],
+	"image": ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"800\" height=\"300\"><rect x=\"0\" y=\"0\" style=\"fill:\\##colour#\" width=\"800\" height=\"300\" /></svg>}"]
+
+
+
+}
